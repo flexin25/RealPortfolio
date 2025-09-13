@@ -8,13 +8,13 @@ import type { ReactNode } from "react"
 const projects = [
   {
     title: "Pomodoro Timer",
-    desc: "24/7 focus cycles with sound and keyboard shortcuts.",
+    desc: "25/5 focus cycles with sound and keyboard shortcuts.",
     stack: ["Next.js", "React", "Tailwind"],
     href: "#",
   },
   {
-    title: "Weather APP",
-    desc: "Weather App using Open‑Meteo with cache and SWR.",
+    title: "Weather API",
+    desc: "Siliguri weather using Open‑Meteo with cache and SWR.",
     stack: ["Next.js", "React", "Tailwind"],
     href: "#",
   },
